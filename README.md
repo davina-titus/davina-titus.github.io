@@ -1,6 +1,6 @@
 ## Davina Titus — Personal Portfolio 
 
-🌐 Live Site: [davina-titus.github.io](https://davina-titus.github.io)
+🌐 **Live Site:** [davina-titus.github.io](https://davina-titus.github.io)
 
 ## About
 Personal portfolio website for Davina Titus — sophomore Computer Science student 
@@ -13,6 +13,7 @@ Built to showcase my experience, projects, and technical skills to recruiters an
 - CSS3
 - JavaScript
 
+## Sections 
 - **About** — Background and introduction
 - **Experience** — Internships and professional roles
 - **Projects** — Technical projects and builds
