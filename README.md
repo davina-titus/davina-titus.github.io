@@ -13,11 +13,11 @@ Built to showcase my experience, projects, and technical skills to recruiters an
 - JavaScript
 
 ## Sections 
-- **About** — Background and introduction
-- **Experience** — Internships and professional roles
-- **Projects** — Technical projects and builds
-- **Skills** — Languages and tools
-- **Contact** — Ways to connect
+- **About**  Background and introduction
+- **Experience** Internships and professional roles
+- **Projects**  Technical projects and builds
+- **Skills**  Languages and tools
+- **Contact**  Ways to connect
 
 ## Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/davina-titus-855199254/)
