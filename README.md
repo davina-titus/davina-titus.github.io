@@ -10,7 +10,7 @@ Built to showcase my experience, projects, and technical skills to recruiters an
 ## Built With
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript 
 
 ## Sections 
 - **About** - Background and introduction
